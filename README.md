@@ -1,5 +1,8 @@
 # Chatbot_GPT3
 
+# ![image](https://user-images.githubusercontent.com/62091944/148089861-a37f5628-d9e6-4f05-ac99-2982ac90d2bb.png)
+
+
 ## What is GPT3?
 ### Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI, a San Francisco-based artificial intelligence research laboratory.
 
@@ -136,3 +139,7 @@ Label Descriptions
 __0 - The text is safe.<br/>__
 __1 - This text is sensitive. This means that the text could be talking about a sensitive topic, something political, religious, or talking about a protected class such as race or nationality.<br/>__
 __2 - This text is unsafe. This means that the text contains profane language, prejudiced or hateful language, something that could be NSFW, or text that portrays certain groups/people in a harmful manner.<br/>__
+
+
+![image](https://user-images.githubusercontent.com/62091944/148089799-398d7a40-328a-473f-b935-61152c22e87e.png)
+
